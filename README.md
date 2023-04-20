@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Eduardo Andres Sosa Segovia (Nostro22) GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/nostro22/github-readme-stats)
+[![Eduardo Andres Sosa Segovia (Nostro22) GitHub stats](https://github-readme-stats.vercel.app/api?username=nostro22)](https://github.com/nostro22/github-readme-stats)
 <!--
 **nostro22/Nostro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
