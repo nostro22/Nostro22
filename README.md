@@ -7,5 +7,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nostro22&hide_progress=true&theme=dark)](https://github.com/nostro22/github-readme-stats)
 
 ## Descripcion Juego
-`juego: Consiste en durante unm minuto con el mouse pasar por encima de las figuras azules y estas seran destruida evitando las figuras rojas pues estas reinician el puntaje`
+'juego': 'Consiste en durante unm minuto con el mouse pasar por encima de las figuras azules y estas seran destruida evitando las figuras rojas pues estas reinician el puntaje'
 
