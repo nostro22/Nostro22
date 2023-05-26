@@ -6,4 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nostro22&hide_progress=true&theme=dark)](https://github.com/nostro22/github-readme-stats)
 
 ## Descripción Juego
-Consiste en durante un minuto con el mouse pasar por encima de las figuras azules y estas serán destruidas, evitando las figuras rojas, ya que estas reinician el puntaje. Intenta acumular la mayor cantidad de puntos posible. ¡Buena suerte y mucho éxito!
+Consiste en destruir la mayor cantidad de esferas rojas para ontener el puntaje mas alta. Intenta acumular la mayor cantidad de puntos posible antes que desaparezcan los globos. ¡Buena suerte y mucho éxito!
